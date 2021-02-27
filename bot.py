@@ -8,12 +8,12 @@ def DDosAttack():
      os.system("figlet Apkaless")
      time.sleep(2)
      print("")
-     print("Creator  : Apkaless\n")
-     print("Country  : Iraq\n")
-     print("YouTube  : https://www.youtube.com/channel/UCghQ...​\n")
+     print("Creator  : BugleMan\n")
+     print("Country  :  BugleLand\n")
+     print("YouTube  \n")
 
-     print("Facebook : https://www.facebook.com/Apkaless/​\n")
-     print("GitHub   : https://github.com/Apkaless​\n")
+     print("Facebook \n")
+     print("GitHub  \n")
      time.sleep(1)
      
      #########################################
